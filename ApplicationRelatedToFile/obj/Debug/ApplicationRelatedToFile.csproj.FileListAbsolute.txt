@@ -1,0 +1,9 @@
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\ApplicationRelatedToFile\ApplicationRelatedToFile\bin\Debug\ApplicationRelatedToFile.exe.config
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\ApplicationRelatedToFile\ApplicationRelatedToFile\bin\Debug\ApplicationRelatedToFile.exe
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\ApplicationRelatedToFile\ApplicationRelatedToFile\bin\Debug\ApplicationRelatedToFile.pdb
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\ApplicationRelatedToFile\ApplicationRelatedToFile\obj\Debug\ApplicationRelatedToFile.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\ApplicationRelatedToFile\ApplicationRelatedToFile\obj\Debug\ApplicationRelatedToFile.Form1.resources
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\ApplicationRelatedToFile\ApplicationRelatedToFile\obj\Debug\ApplicationRelatedToFile.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\ApplicationRelatedToFile\ApplicationRelatedToFile\obj\Debug\ApplicationRelatedToFile.csproj.GenerateResource.Cache
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\ApplicationRelatedToFile\ApplicationRelatedToFile\obj\Debug\ApplicationRelatedToFile.exe
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\ApplicationRelatedToFile\ApplicationRelatedToFile\obj\Debug\ApplicationRelatedToFile.pdb
